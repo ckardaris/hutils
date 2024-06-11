@@ -1,0 +1,6 @@
+dist-newstyle
+
+# hcat
+hcat/tests/test_chars.txt
+hcat/tests/test_text.txt
+hcat/tests/test_stdin.txt
